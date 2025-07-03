@@ -233,7 +233,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Support
 
 Jika ada pertanyaan atau issues:
-1. Check [Issues](https://github.com/0xReLogic/telegram-ai-bot/issues)
+1. Check [Issues](https://github.com/0xReLogic/Astro/issues)
 2. Create new issue dengan template yang sesuai
 3. Contact Developer:
    - Email: hi@0xrelogic.my.id
@@ -245,6 +245,6 @@ Jika ada pertanyaan atau issues:
 **Dibuat dengan ❤️ menggunakan Bun.js, grammY, dan Gemini AI**
 
 ### Stats
-![GitHub stars](https://img.shields.io/github/stars/0xReLogic/telegram-ai-bot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/0xReLogic/telegram-ai-bot?style=social)
-![GitHub issues](https://img.shields.io/github/issues/0xReLogic/telegram-ai-bot)
+![GitHub stars](https://img.shields.io/github/stars/0xReLogic/Astro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/0xReLogic/Astro?style=social)
+![GitHub issues](https://img.shields.io/github/issues/0xReLogic/Astro)
